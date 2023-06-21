@@ -20,7 +20,7 @@ Website functions with interactions
 
 ## Credits
 Starter code provided at,
-[N/A](https://github.com/coding-boot-camp/friendly-parakeet)
+[friendly-parakeet](https://github.com/coding-boot-camp/friendly-parakeet)
 
 ## License
 
