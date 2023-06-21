@@ -6,10 +6,8 @@ I learned some new features as well, I greatly increased my understanding of jav
 
 
 ## Installation
-http://stackoverflow.com
 Available with website link
-[go][]{:target="_blank" 
-[go](https://dupeaj.github.io/Jacob-Dupea-PasswordGenerator/){:target="_blank" rel="noopener"}
+[Password Generator]https://dupeaj.github.io/Jacob-Dupea-PasswordGenerator/
 ## Usage
 
 Website functions with interactions 
