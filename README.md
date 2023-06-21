@@ -7,7 +7,7 @@ I learned some new features as well, I greatly increased my understanding of jav
 
 ## Installation
 Available with website link
-[Password Generator]https://dupeaj.github.io/Jacob-Dupea-PasswordGenerator/
+[Password Generator](https://dupeaj.github.io/Jacob-Dupea-PasswordGenerator/)
 ## Usage
 
 Website functions with interactions 
